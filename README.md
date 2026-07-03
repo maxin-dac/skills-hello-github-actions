@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 🎉 Congratulations zoemox! 🎉
+# 🎉 Congratulations maxin-dac! 🎉
 
 <img src="https://octodex.github.com/images/welcometocat.png" height="200px" />
 
